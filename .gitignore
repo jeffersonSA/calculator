@@ -5,6 +5,11 @@
 # Xcode
 #
 build/
+android/
+node_modules/
+.vscode/
+_tests_/
+ios/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
